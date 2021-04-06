@@ -4,7 +4,7 @@ html, body {
 
 body {
     display: grid;
-    grid-template-columns: 15em auto 15em;
+    grid-template-columns: 15em 1fr 1fr;
     grid-template-rows: min-content auto min-content;
 }
 
